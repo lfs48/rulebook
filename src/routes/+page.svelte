@@ -1,6 +1,43 @@
+<style>
+    main {
+        @apply
+            h-full
+            w-full
+            bg-black
+            text-white
+            p-6
+            space-y-8
+    }
+    h1 {
+        @apply
+            text-5xl
+            font-semibold
+            bg-red-800
+            py-2
+            pl-4
+    }
+    h2 {
+        @apply
+            text-3xl
+            font-semibold
+            bg-yellow-600
+            py-2
+            pl-4
+    }
+    section {
+        @apply
+            space-y-4
+    }
+    ul {
+        @apply
+            ml-4
+            list-disc
+    }
+</style>
+
 <main>
 
-<section class='chapter'>
+<section>
 
 <h1>Chapter 1: Characters</h1>
 
