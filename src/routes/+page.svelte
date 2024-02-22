@@ -24,6 +24,11 @@
             py-2
             pl-4
     }
+    h3 {
+        @apply
+        text-xl
+        font-semibold
+    }
     section {
         @apply
             space-y-4
@@ -75,6 +80,53 @@
             <li><b>Attributes</b> — numbers that quantify your strengths and weaknesses.</li>
             <li>Your appearance, personality, motivations, flaws, and other traits as a character within a story.</li>
         </ul>
+
+    </section>
+
+    <section>
+
+        <h2>Attributes</h2>
+
+        <p>
+            Attributes are a set of six fundamental traits which 
+            quantify your strengths and weaknesses as an adventurer.
+        </p>
+        
+        <ul>
+
+            <li><b>Strength (STR):</b> Measures physical might and force.</li>
+            <li><b>Dexterity (DEX):</b> Measures precision and agility.</li>
+            <li><b>Constitution (CON):</b> Measures physical stamina and resilience.</li>
+            <li><b>Intelligence (INT):</b> Measures knowledge and memory.</li>
+            <li><b>Awareness (AWR):</b> Measures perceptiveness and sharpness of the senses.</li>
+            <li><b>Charisma (CHA):</b> Measures confidence and ability to influence others.</li>
+
+        </ul>
+
+        <p>
+
+        Each of your attributes has a numerical value,
+        which ranges from 0 (corresponding to around the
+        capability of an average non-heroic person) 
+        to 4 (representing extraordinary talent).
+        A higher attribute increases your chance of a successful outcome
+        when performing risky or difficult activities related to it.
+
+        </p>
+
+        <aside>
+            <h3>Determining Attributes</h3>
+            <p>
+                At 1st level, choose two attributes to assign a value of +2,
+                and two others to assign a value of +1.
+                The remaining two attributes have a value of 0.
+
+                <br/>
+
+                Your attributes improve as you level up,
+                as detailed in the <b>Levels & Experience</b> section.
+            </p>
+        </aside>
 
     </section>
 
