@@ -38,6 +38,22 @@
             ml-4
             list-disc
     }
+    section br {
+        @apply
+            mb-4
+    }
+    aside {
+        @apply
+        bg-gray-600
+        border-2
+        border-white
+        p-2
+        space-y-2
+    }
+    aside br {
+        @apply
+            mb-2
+    }
 </style>
 
 <main>
