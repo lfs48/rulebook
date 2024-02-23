@@ -1,5 +1,6 @@
 <style>
     main {
+        font-family: 'Nunito';
         @apply
             h-full
             w-full
@@ -232,7 +233,7 @@
                 Thus each tier of play will usually encompass its own narrative arc.
             </p>
         </aside>
-        
+
     </section>
 
 </section>
