@@ -3,65 +3,6 @@
 
 </script>
 
-<style>
-    main {
-        font-family: 'Nunito';
-        @apply
-            h-full
-            w-full
-            bg-black
-            text-white
-            p-6
-            space-y-8
-    }
-    h1 {
-        @apply
-            text-5xl
-            font-semibold
-            bg-red-800
-            py-2
-            pl-4
-    }
-    h2 {
-        @apply
-            text-3xl
-            font-semibold
-            bg-yellow-600
-            py-2
-            pl-4
-    }
-    h3 {
-        @apply
-        text-xl
-        font-semibold
-    }
-    section {
-        @apply
-            space-y-4
-    }
-    ul {
-        @apply
-            ml-4
-            list-disc
-    }
-    section br {
-        @apply
-            mb-4
-    }
-    aside {
-        @apply
-        bg-gray-600
-        border-2
-        border-white
-        p-2
-        space-y-2
-    }
-    aside br {
-        @apply
-            mb-2
-    }
-</style>
-
 <main>
 
     <Characters />
