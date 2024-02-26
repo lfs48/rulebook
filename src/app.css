@@ -58,3 +58,8 @@ aside br {
     @apply
         mb-2
 }
+h4 {
+    @apply
+        font-semibold
+        text-lg
+}
