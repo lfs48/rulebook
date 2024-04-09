@@ -9,7 +9,9 @@ main {
         w-full
         bg-black
         text-white
-        p-6
+        pl-32
+        pr-6
+        py-6
         space-y-8
 }
 h1 {
